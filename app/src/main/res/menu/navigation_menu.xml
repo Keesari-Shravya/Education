@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_Home"
+        android:title="Home"/>
+    <item android:id="@+id/nav_aboutus"
+        android:title="About Us"/>
+    <item android:id="@+id/nav_c_impact"
+        android:title="Creating Impact"/>
+    <item android:id="@+id/nav_Donate"
+        android:title="Donate"/>
+    <item android:id="@+id/nav_media"
+        android:title="Media"/>
+    <item android:id="@+id/nav_info"
+        android:title="Contact Info"/>
+    <item android:id="@+id/nav_logout"
+        android:title="Logout"/>
+
+</menu>
